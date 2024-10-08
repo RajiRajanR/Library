@@ -1,0 +1,153 @@
+.adminlogin-img{
+    height: 80vh;
+    width: 100%;
+}
+.admin-login-text{
+    height: 6vh;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid grey;
+}
+.admin-login-loginbtn{
+    height: 6vh;
+    width: 100%;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+/* Sidebar */
+.admin-sidebar-back{
+    background-color: black;
+    min-height: 110vh;
+    width: 100%;
+}
+.admin-sidebar-link a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+}
+.admin-sidebar-link a:hover{
+    color: red;
+}
+.admin-sidebar-logoutbtn{
+    background-color: white;
+    color: black;
+    height: 5vh;
+    width: 40%;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+/* Dashboard */
+
+.admin-dash-box{
+    height: 20vh;
+    width: 100%;
+    background-color: black;
+    border-radius: 20px;
+}
+
+/* AdminView Staff List */
+
+.adminview-stafflist-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+.adminview-stafflist-header{
+    font-weight: bold;
+}
+
+.adminview-stafflist-viewbtn{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    height: 3.5vh;
+}
+
+/* AdminView Student Request */
+
+.student-request-div1{
+    background-color: black;
+    color: white;
+    height: 6vh;
+    border-radius: 30px;
+}
+.student-request-div2{
+    background-color: rgba(0, 0, 0, 0.416);
+    color: white;
+    height: 6vh;
+    border-radius: 30px;
+}
+.student-request-acceptbtn{
+    border: 1px solid green;
+    color: green;
+    height: 4vh;
+    width: 50%;
+    border-radius: 20px;
+    background-color: white;
+}
+.student-request-rejectbtn{
+    border: 1px solid red;
+    color: red;
+    height: 4vh;
+    width: 50%;
+    border-radius: 20px;
+    background-color: white;
+}
+.student-request-viewbtn{
+    border: 1px solid black;
+    color: black;
+    height: 4vh;
+    width: 40%;
+    border-radius: 20px;
+    background-color: white;
+}
+
+/* Admin Add Book */
+.admin-reg-input{
+    height: 6vh;
+    width: 100%;
+    border-radius: 7px;
+    border: 1px solid gray;
+}
+.admin-submitbtn{
+    color: white;
+    background-color: rgb(6, 87, 2);
+    height: 6vh;
+    width: 20%;
+    border: none;
+    border-radius:10px ;
+    font-size: 17px;
+}
+.admin-submitbtn1{
+    color: white;
+    background-color: rgb(177, 10, 10);
+    height: 6vh;
+    width: 20%;
+    border: none;
+    border-radius:10px ;
+    font-size: 17px;
+}
+
+/* Admin Fine Add PAge */
+
+.adminadd-stafffine-input{
+    height: 6vh;
+    width: 100%;
+    border: 1px solid grey;
+    border-radius: 7px;
+}
+.adminadd-stafffine-submitbtn{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    height: 4.5vh;
+    width: 30%;
+}

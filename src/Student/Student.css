@@ -1,0 +1,155 @@
+/* Student Login */
+
+.student-login-img{
+    background-image: url(../Images/liblogin.jpeg);
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.student-login-text{
+    height: 6vh;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid grey;
+}
+.student-login-loginbtn{
+    height: 6vh;
+    width: 100%;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+/* Student Register */
+
+.student-reg-input{
+    height: 6vh;
+    width: 100%;
+    border-radius: 7px;
+    border: 1px solid gray;
+}
+.student-register-submitbtn{
+    color: white;
+    background-color: black;
+    height: 6vh;
+    width: 20%;
+    border: none;
+    border-radius:10px ;
+    font-size: 17px;
+}
+
+/* Edit profile */
+
+.student-view-profile-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+}
+.student-view-profile-icon{
+    margin-top: 60px;
+    margin-left: -50px;
+    font-size: 25px;
+}
+
+/* Sidebar */
+
+.student-sidebar-back{
+    position: relative;
+    background-color: black;
+    min-height: 113vh;
+    width: 100%;
+}
+.student-sidebar-link a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+}
+.student-sidebar-link a:hover{
+    color: red;
+}
+.Student-sidebar-logoutbtn{
+    background-color: white;
+    color: black;
+    height: 5vh;
+    width: 40%;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+/* Dashboard */
+
+.student-dash-box{
+    height: 20vh;
+    width: 90%;
+    background-color: black;
+    border-radius: 20px;
+}
+
+/* Student Book Borrow */
+
+.student-book-borrow-submitbtn{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 6vh;
+    width: 20%;
+}
+
+/* Student Book List */
+
+/* .student-book-list-img{
+    height: 200px;
+    width: 200px;
+} */
+
+/* .student-book-list-card{
+    margin-right: 50px;
+} */
+
+
+/* Student Notification */
+
+.student-notification-finetbtn{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 4vh;
+    width: 50%;
+}
+
+/* Student Fine */
+
+.student-fine-finebtn{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 6vh;
+    width: 50%;
+}
+
+/* Student Book List */
+
+.student-book-list-borrowbtn{
+    color: white;
+    background-color: black;
+    border: none;;
+    border-radius: 8px;
+    height: 4vh;
+}
+
+/* Student Mybook Return */
+
+.student-mybook-returnbtn{
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 8px;
+    height: 4.5vh;
+}

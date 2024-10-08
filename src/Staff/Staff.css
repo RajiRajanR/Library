@@ -1,0 +1,136 @@
+/* Staff Login */
+
+ .staff-login-back-img{
+    background-image: url(../Images/libstafflog.jpeg);
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+.staff-login-text{
+    height: 6vh;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid grey;
+}
+.staff-login-loginbtn{
+    height: 6vh;
+    width: 100%;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+/* Staff Register */
+
+
+.staff-reg-input{
+    height: 6vh;
+    width: 100%;
+    border-radius: 7px;
+    border: 1px solid gray;
+}
+.staff-reg-input2{
+    height: 6vh;
+    width: 90%;
+    border-radius: 7px;
+    border: 1px solid gray;
+}
+.staff-register-submitbtn{
+    color: white;
+    background-color: black;
+    height: 6vh;
+    width: 20%;
+    border: none;
+    border-radius:10px ;
+    font-size: 17px;
+}
+
+/* EditProfile */
+
+.staff-view-profile-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+}
+.staff-view-profile-icon{
+    margin-top: 60px;
+    margin-left: -50px;
+    font-size: 25px;
+}
+
+/* Sidebar */
+
+.staff-sidebar-back{
+    background-color: black;
+    min-height: 125vh;
+    width: 100%;
+}
+.staff-sidebar-link a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+}
+.staff-sidebar-link a:hover{
+    color: red;
+}
+.staff-sidebar-logoutbtn{
+    background-color: white;
+    color: black;
+    height: 5vh;
+    width: 40%;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+/* Dashboard */
+
+.staff-dash-box{
+    height: 20vh;
+    width: 90%;
+    background-color: black;
+    border-radius: 20px;
+}
+
+/* Staff Book Borrow */
+
+.staff-book-borrow-submitbtn{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 6vh;
+    width: 20%;
+}
+
+/* Staff Notification */
+
+.staff-notification-finetbtn{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 4vh;
+    width: 50%;
+}
+
+/* Student Borrow Request */
+
+.borrowreq-acceptbtn{
+    background-color: rgb(4, 91, 4);
+    color: white;
+    border: none;
+    border-radius: 7px;
+    height: 4vh;
+}
+
+.borrowreq-rejectbtn{
+    background-color: rgb(202, 7, 7);
+    color: white;
+    border: none;
+    border-radius: 7px;
+    height: 4vh;
+}
